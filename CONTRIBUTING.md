@@ -7,3 +7,4 @@ Notes and usage details for scrapegraph-mcp.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
